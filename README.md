@@ -1,16 +1,21 @@
-## Hi there 👋
+## About AkuchiS
 
-<!--
-**AkuchiS/AkuchiS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a retired Australian Army veteran, homelab hobbyist, and independent builder exploring practical uses for AI, automation, and self-hosted technology.
 
-Here are some ideas to get you started:
+I build tools that solve problems I actually have, test them on my own infrastructure, break plenty of things along the way, fix what fails, and share the results so others can benefit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AkuchiS is built around a simple idea:
+
+**Simplify. Automate. Share.**
+
+The projects here range from small utilities and productivity tools to larger experiments in local AI, autonomous agents, orchestration, and privacy-focused automation.
+
+Most of this work is independently developed, self-funded, and released openly. If something here saves you time, teaches you something, or helps with your own build, you can support continued development through the link below.
+
+## Support the Work
+
+AkuchiS is independently built and self-funded. Support helps cover hardware, hosting, model access, testing, and the continued development of practical tools released for others to use.
+
+If one of these projects has helped you, consider supporting the work.
+
+❤️ [Sponsor on GitHub](https://github.com/sponsors/AkuchiS)
